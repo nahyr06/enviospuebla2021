@@ -1,0 +1,14 @@
+https://www.google.com/search?rlz=1C1ONGR_esMX946MX946&sxsrf=ALeKk00zu0zOw5BSz7P30yc-R0rGDugeBg:1625117126007&q=Social+bar+HTML&sa=X&ved=2ahUKEwi56I2IkcHxAhWXk2oFHTiTBkoQ1QIwInoECBsQAQ&biw=1518&bih=692
+
+https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
+
+
+https://freshdesignweb.com/css3-social-media-buttons/
+
+https://www.cssscript.com/responsive-sliding-social-media-buttons-with-pure-css3/
+
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sticky_social_bar
+
+
+https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp
